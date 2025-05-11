@@ -1,0 +1,36 @@
+# Ambientes virtuais
+venv/
+.env/
+
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de pacotes
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Cache do pip
+pip-wheel-metadata/
+*.whl
+
+# Arquivos criados pelo Flet Desktop
+flet_app/
